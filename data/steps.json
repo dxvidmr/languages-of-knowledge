@@ -9,14 +9,14 @@
   {
     "id": "step2",
     "title": "Ancient Greek: Rare but Persistent",
-    "text": "In contrast, Ancient Greek remains relatively rare throughout the period, appearing slightly more frequently in religious contexts toward the end of the 1500s.",
+    "text": "Ancient Greek appears only in a small number of manuscripts in this dataset. Its presence remains relatively low throughout the period shown in the graph, especially when compared with languages such as Latin or English. This reflects the fact that Greek texts circulated less widely in Western European manuscript culture, although some continued to be copied and studied, particularly in scholarly or religious contexts.",
     "chart": "data/charts/chart2.svg", 
     "caption": ""
   },
   {
     "id": "step3",
     "title": "Middle English on the Rise",
-    "text": "The following graphs illustrate this shift: Middle English and English rise steadily from the 1300s onward, particularly in non-religious manuscripts, suggesting the growing importance of vernacular writing for practical, literary, and administrative texts.",
+    "text": "Middle English begins to appear more frequently from the 1300s onward. Its growing presence reflects the increasing use of vernacular language in manuscripts, particularly for practical, literary, and everyday texts.",
     "chart": "data/charts/chart3.svg", 
     "caption": ""
   }
@@ -24,7 +24,7 @@
   {
     "id": "step4",
     "title": "Italian Finds Its Place",
-    "text": "Italian also increases notably in the 1400s and 1500s, though at lower levels than English.",
+    "text": "Italian begins to appear more frequently in the later centuries of the period shown in the graph, especially from the 1400s onward. Although it never becomes as common as Latin, its presence reflects the growing use of vernacular languages in manuscript culture, particularly in literary, scientific, and practical texts.",
     "chart": "data/charts/chart4.svg", 
     "caption": ""
   },
@@ -45,7 +45,7 @@
   {
     "id": "step7",
     "title": "English Steps into the Spotlight",
-    "text": "Middle English begins to appear more frequently from the 1300s onward. Its growing presence reflects the increasing use of vernacular language in manuscripts, particularly for practical, literary, and everyday texts.",
+    "text": "English becomes increasingly common from the 1400s onward, especially in non-religious manuscripts. This trend reflects the growing importance of vernacular writing for practical, literary, and administrative purposes.",
     "chart": "data/charts/chart7.svg", 
     "caption": ""
   },
