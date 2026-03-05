@@ -1,1 +1,1 @@
-# languages-of-knowledge
+# Languages of Knowledge
