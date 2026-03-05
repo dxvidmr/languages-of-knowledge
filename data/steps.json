@@ -9,14 +9,14 @@
   {
     "id": "step2",
     "title": "Ancient Greek: Rare but Persistent",
-    "text": "The following graphs illustrate this shift: Middle English and English rise steadily from the 1300s onward, particularly in non-religious manuscripts, suggesting the growing importance of vernacular writing for practical, literary, and administrative texts.",
+    "text": "In contrast, Ancient Greek remains relatively rare throughout the period, appearing slightly more frequently in religious contexts toward the end of the 1500s.",
     "chart": "data/charts/chart2.svg", 
     "caption": ""
   },
   {
     "id": "step3",
     "title": "Middle English on the Rise",
-    "text": "Italian also increases notably in the 1400s and 1500s, though at lower levels than English.",
+    "text": "The following graphs illustrate this shift: Middle English and English rise steadily from the 1300s onward, particularly in non-religious manuscripts, suggesting the growing importance of vernacular writing for practical, literary, and administrative texts.",
     "chart": "data/charts/chart3.svg", 
     "caption": ""
   }
@@ -24,7 +24,7 @@
   {
     "id": "step4",
     "title": "Italian Finds Its Place",
-    "text": "In contrast, Ancient Greek remains relatively rare throughout the period, appearing slightly more frequently in religious contexts toward the end of the 1500s.",
+    "text": "Italian also increases notably in the 1400s and 1500s, though at lower levels than English.",
     "chart": "data/charts/chart4.svg", 
     "caption": ""
   },
