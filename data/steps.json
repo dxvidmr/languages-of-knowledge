@@ -9,14 +9,14 @@
   {
     "id": "step2",
     "title": "Ancient Greek: Rare but Persistent",
-    "text": "The following graphs illustrate this shift: Middle English and English rise steadily from the thirteenth century onward, particularly in non-religious manuscripts, suggesting the growing importance of vernacular writing for practical, literary, and administrative texts.",
+    "text": "The following graphs illustrate this shift: Middle English and English rise steadily from the 1300s onward, particularly in non-religious manuscripts, suggesting the growing importance of vernacular writing for practical, literary, and administrative texts.",
     "chart": "data/charts/chart2.svg", 
     "caption": ""
   },
   {
     "id": "step3",
     "title": "Middle English on the Rise",
-    "text": "Italian also increases notably in the fourteenth and fifteenth centuries, though at lower levels than English.",
+    "text": "Italian also increases notably in the 1400s and 1500s, though at lower levels than English.",
     "chart": "data/charts/chart3.svg", 
     "caption": ""
   }
@@ -24,14 +24,14 @@
   {
     "id": "step4",
     "title": "Italian Finds Its Place",
-    "text": "In contrast, Ancient Greek remains relatively rare throughout the period, appearing slightly more frequently in religious contexts toward the end of the fifteenth century.",
+    "text": "In contrast, Ancient Greek remains relatively rare throughout the period, appearing slightly more frequently in religious contexts toward the end of the 1500s.",
     "chart": "data/charts/chart4.svg", 
     "caption": ""
   },
   {
     "id": "step5",
     "title": "Anglo-Norman in Medieval England",
-    "text": "Anglo-Norman shows its strongest presence in the twelfth and thirteenth centuries, reflecting its importance in England after the Norman Conquest. Its use declines in later centuries as English gradually becomes more prominent in manuscript production.",
+    "text": "Anglo-Norman shows its strongest presence in the 1200s and 1300s, reflecting its importance in England after the Norman Conquest. Its use declines in later centuries as English gradually becomes more prominent in manuscript production.",
     "chart": "data/charts/chart5.svg", 
     "caption": ""
   },
@@ -45,14 +45,14 @@
   {
     "id": "step7",
     "title": "English Steps into the Spotlight",
-    "text": "Middle English begins to appear more frequently from the thirteenth century onward. Its growing presence reflects the increasing use of vernacular language in manuscripts, particularly for practical, literary, and everyday texts.",
+    "text": "Middle English begins to appear more frequently from the 1300s onward. Its growing presence reflects the increasing use of vernacular language in manuscripts, particularly for practical, literary, and everyday texts.",
     "chart": "data/charts/chart7.svg", 
     "caption": ""
   },
   {
     "id": "step8",
     "title": "Old French: Early Vernacular Writing",
-    "text": "Old French also appears most frequently in the twelfth and thirteenth centuries. After this early peak, its presence declines, while English and other vernacular languages become increasingly common in manuscripts.",
+    "text": "Old French also appears most frequently in the 1200s and 1300s. After this early peak, its presence declines, while English and other vernacular languages become increasingly common in manuscripts.",
     "chart": "data/charts/chart8.svg", 
     "caption": ""
   }
