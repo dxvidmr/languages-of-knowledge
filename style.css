@@ -327,6 +327,21 @@ img   { max-width: 100%; display: block; }
 
 @media (max-width: 768px) {
   #scroll-container { flex-direction: column; }
-  #steps, #graphic  { width: 100%; }
-  #graphic          { position: relative; height: 60vh; }
+  #steps { 
+    width: 100%; 
+    padding: 0 1.5rem;
+  }
+  #graphic { 
+    width: 100%; 
+    position: sticky;
+    top: 0;
+    height: 50vh;
+  }
+  #chart-display object,
+  #chart-display img {
+    max-height: 45vh;
+  }
+  .step {
+    min-height: 60vh;
+  }
 }
